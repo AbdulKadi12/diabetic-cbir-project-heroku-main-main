@@ -1,7 +1,7 @@
 # PLANT IMAGE RETRIEVAL USING CNN
 
 ## Deskripsi Dataset
-Dalam pembuatan project ini, dataset yang kami gunakan merupakan dataset yang berupa daun kacang dan daun kedelai yang didapatkan dari situs https://maxwell.ict.griffith.edu.au/cvipl/databases.html yang berjudul CVIP100 Leaf. Dataset ini berisi banyak jenis daun tanaman tetapi kami ambil sebanyak 132 gambar pada daun kacang dan 145 gambar pada daun kedelai dan semua gambar tersebut bertipe .jpg
+Dalam pembuatan project ini, dataset yang kami gunakan merupakan dataset yang berupa daun kacang dan daun kedelai yang didapatkan dari situs https://maxwell.ict.griffith.edu.au/cvipl/databases.html yang berjudul CVIP100 Leaf. Dataset ini berisi banyak jenis daun tanaman tetapi kami ambil sebanyak 132 gambar pada daun kacang dan 145 gambar pada daun kedelai dan semua gambar tersebut bertipe .jpg. Dataset dapat diakses [disini](https://drive.google.com/folderview?id=1h1zkhKYxtAMCyqL96c1imNViedBxl80G)
 
 ## Jurnal Referensi
 Jurnal referensi yang digunakan dalam pembuatan project ini berjudul [Fine-Grained Plant Leaf Image Retrieval Using Local Angle Coocurrence Histograms](http://www.doi.org/10.1109/ICIP42928.2021.9506351). Xin Chen, Jiawei You, Hui Tang, Bin Wang, Yongsheng Gao.
