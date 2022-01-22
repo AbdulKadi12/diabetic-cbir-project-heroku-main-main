@@ -29,3 +29,6 @@ test (80%, jumlah data test)
 
 ## LINK COLAB
 https://colab.research.google.com/drive/1AU54PbCj-ZRB0xhnHrXGy-NNTdIcyJXV#scrollTo=5HTM7OWSIG0-
+
+## LINK PAPER
+https://docs.google.com/document/d/1JB9BnTEf-L6HiKsAQvG1jt4eKA00xXnUhY1r6tbD_LE/edit
