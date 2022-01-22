@@ -26,3 +26,6 @@ Jumlah dan persentase splitting dataset :
 train (80%, jumlah data train)
 validation (10%, jumlah data validation)
 test (80%, jumlah data test)
+
+## LINK COLAB
+https://colab.research.google.com/drive/1AU54PbCj-ZRB0xhnHrXGy-NNTdIcyJXV#scrollTo=5HTM7OWSIG0-
